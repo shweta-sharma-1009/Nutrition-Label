@@ -1,4 +1,4 @@
-Hosted Link - 
+Hosted Link - https://shweta-sharma-1009.github.io/Nutrition-Label/
 
 ![Screenshot (169)](https://github.com/shweta-sharma-1009/Nutrition-Label/assets/128416925/6bcf7139-61f5-4883-9594-f34beeaa58f7)
 ![Screenshot (170)](https://github.com/shweta-sharma-1009/Nutrition-Label/assets/128416925/ff24edf6-9323-4c4d-8089-d19f93a3091a)
